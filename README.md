@@ -1,2 +1,2 @@
 # uPylibrary
-uPylibrary
+Здесь собраны проверенные мной лично библиотеки и модули для Micro Python.
